@@ -13,9 +13,9 @@ precisa ter as variaveis de ambiente abaixo
 
 
     #FABIO VARIAVEIS
-    export MARVEL_TS="12012021204200"
-    export MARVEL_APIKEY="a4d6edbf6ba8d17585fdaff95de090b5"
-    export MARVEL_HASH="bfa447bda63f1fa8857a8ab30796fadc"
+    export MARVEL_TS="asd-asd-asda-asd"
+    export MARVEL_APIKEY="zxc-zxc-zxcz-xc-czxc"
+    export MARVEL_HASH="qwe-qwe-qwe-qwe-qweqweqwe-qweqwe"
 
 ### Como testar
 para testar use as chamadas que estao no arquivo chamadas.http pelo próprio intellij ou cadastre as chamadas no postman.
